@@ -1,6 +1,7 @@
 # GO-tips
 a variable declare inside a loop, will be a new instance at each iteration
 Il y a des gestionnaires de projet
+External function call with a capital letter : math.Pi
 
 books to read :
 
@@ -25,3 +26,6 @@ fmt.Printf: Permet de formater les chaînes de caractères comme avec printf en 
 fmt.Sprint: Renvoie une chaîne de caractères au lieu de l'afficher.
 fmt.Sprintln: Comme fmt.Sprint, mais ajoute un saut de ligne.
 fmt.Sprintf: Comme fmt.Printf, mais renvoie une chaîne de caractères au lieu de l'afficher.
+
+## Slice
+Une tranche a trois composants : un pointeur vers le tableau sous-jacent, une longueur et une capacité.
