@@ -29,3 +29,6 @@ fmt.Sprintf: Comme fmt.Printf, mais renvoie une chaîne de caractères au lieu d
 
 ## Slice
 Une tranche a trois composants : un pointeur vers le tableau sous-jacent, une longueur et une capacité.
+
+## Ressources
+https://www.reddit.com/r/golang/comments/lvwu45/go_and_freelance_work/
