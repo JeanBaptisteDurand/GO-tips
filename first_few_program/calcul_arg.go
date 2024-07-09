@@ -66,6 +66,10 @@ func div(a, b string) float64 {
 		fmt.Println("Error converting string to float or division by zero")
 		return 0
 	}
+	if num2 == 0 {
+		fmt.Println("Error: division by zero")
+		return 0
+	}
 	return num1 / num2
 }
 

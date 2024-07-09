@@ -41,6 +41,19 @@ Une tranche a trois composants : un pointeur vers le tableau sous-jacent, une lo
 ## Ressources
 https://www.reddit.com/r/golang/comments/lvwu45/go_and_freelance_work/
 
+## projects
+```
+Todo application
+Chat Application
+CLI
+Microservices which communicate using gRPC
+Containerizing a Go application
+Create a blogging website
+Webscraper using net/http and goquery package
+Rate limiter
+Email Template generator using template package
+```
+
 ## Methode
 
 ```
