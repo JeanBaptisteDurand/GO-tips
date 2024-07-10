@@ -27,6 +27,9 @@ Good site to learn syntax :
 difference channel et atomic
 thread vs semaphore in go
 fork in go and why would i want that
+go warps
+auto formating de go
+go wire lib
 ```
 
 
