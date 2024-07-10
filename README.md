@@ -14,6 +14,8 @@ Concurrency in Go: Tools and Techniques for Developers
 
 conference de rob pike (google)
 
+golangci-lint
+
 
 Good site to learn syntax :
 1. a tour of go
@@ -62,6 +64,7 @@ Create a blogging website
 Webscraper using net/http and goquery package
 Rate limiter
 Email Template generator using template package
+cloud
 ```
 
 ## Methode
