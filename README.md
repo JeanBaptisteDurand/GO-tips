@@ -22,6 +22,13 @@ Good site to learn syntax :
 4. lets go + lets go further (web dev)
 ```
 
+## Questions
+```
+difference channel et atomic
+thread vs semaphore in go
+fork in go and why would i want that
+```
+
 
 ## Print
 ```
