@@ -193,6 +193,9 @@
 
 ### Outils spécifiques pour Go
 
+**Web UI Testing**
+- Inkmi : https://www.inkmi.com/blog/web-ui-tests-in-golang
+
 **Hot Reloading :**
 - Air : Hot reloading pour les applications Go.
 - Reflex : Outil pour exécuter des commandes sur les changements de fichiers.
