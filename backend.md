@@ -319,5 +319,5 @@
 - termui : Interface utilisateur basée sur le terminal.
 - tview : Widgets pour les interfaces utilisateur basées sur le terminal.
 
-### Non Categorise
+### Monitor Microservice (new tech)
 - https://www.jaegertracing.io/
