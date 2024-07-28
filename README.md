@@ -22,6 +22,7 @@ Good site to learn syntax :
 2. go by exemple
 3. effective go
 4. lets go + lets go further (web dev)
+5. https://exercism.org/tracks/go/
 ```
 
 ## Questions
