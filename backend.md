@@ -57,6 +57,7 @@
 ### Monitoring et logging
 
 **Monitoring :**
+- https://github.com/siglens/siglens (new tech)
 - Prometheus
 - Grafana
 - InfluxDB
