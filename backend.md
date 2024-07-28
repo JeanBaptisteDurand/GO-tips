@@ -1,3 +1,7 @@
+### Outils externe
+
+- Lazygit
+
 ### Bases de données
 
 **Bases de données relationnelles :**
