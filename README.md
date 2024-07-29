@@ -23,6 +23,7 @@ Good site to learn syntax :
 3. effective go
 4. lets go + lets go further (web dev)
 5. https://exercism.org/tracks/go/
+6. https://github.com/inancgumus/learngo
 ```
 
 ## Questions
