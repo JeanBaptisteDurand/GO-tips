@@ -33,6 +33,7 @@
 - NSQ
 
 **Services de coordination :**
+- cloudron.io
 - Zookeeper : Nécessaire pour Kafka et autres services distribués.
 - Consul
 - etcd
