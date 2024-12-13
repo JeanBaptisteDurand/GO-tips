@@ -24,6 +24,10 @@ Good site to learn syntax :
 4. lets go + lets go further (web dev)
 5. https://exercism.org/tracks/go/
 6. https://github.com/inancgumus/learngo
+
+exo lecture fichier type day 10
+io.reader
+refaire piscine c mais en go
 ```
 
 ## Questions
