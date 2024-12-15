@@ -28,6 +28,8 @@ Good site to learn syntax :
 exo lecture fichier type day 10
 io.reader
 refaire piscine c mais en go
+
+deque heap ect...
 ```
 
 ## Questions
