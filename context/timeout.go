@@ -9,7 +9,7 @@ import (
 
 func main() {
 	start := time.Now()
-	ctx := context.WithValue(context.Background(), "username", "anthonygg")
+	ctx := context.WithValue(context.Background(), "username", "jedurand")
 
 	userID, err := fetchUserID(ctx)
 	if err != nil {
