@@ -12,28 +12,25 @@ func smallestEquivalentString(s1 string, s2 string, baseStr string) string {
 }
 
 func findLowestMatch(mid map[rune][]rune, char rune) rune {
-    found := 1
-    for found == 1 {
-        char, found = findLowestLetter(mid[char], char)
-    }
-    return char
-}
+    visited := make(map[rune]bool)
+    minChar := char
 
-func findLowestLetter(s []rune, char rune) (rune, int) {
-    if len(s) == 0 {
-        return 0, 0
-    }
-    lowest := rune(s[0])
-    for _, c := range s {
-        if c < lowest {
-            lowest = c
+    var dfs func(rune)
+    dfs = func(c rune) {
+        if visited[c] {
+            return
         }
+        visited[c] = true
+        if c < minChar {
+            minChar = c
+        }
+        for _, neighbor := range mid[c] {
+            dfs(neighbor)
+        }
+
     }
-    if char <= lowest {
-        lowest = char
-        return lowest, 0
-    }
-    return lowest, 1
+    dfs(char)
+    return minChar
 }
 
 package main
