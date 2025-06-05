@@ -1,5 +1,3 @@
-// Online Go compiler to run Golang program online
-// Print "Try programiz.pro" message
 func smallestEquivalentString(s1 string, s2 string, baseStr string) string {
     mid := make(map[rune][]rune)
     var result []rune
@@ -15,11 +13,10 @@ func smallestEquivalentString(s1 string, s2 string, baseStr string) string {
 
 func findLowestMatch(mid map[rune][]rune, char rune) rune {
     found := 1
-    var letter rune
     for found == 1 {
-        letter, found = findLowestLetter(mid[char], char)
+        char, found = findLowestLetter(mid[char], char)
     }
-    return letter
+    return char
 }
 
 func findLowestLetter(s []rune, char rune) (rune, int) {
@@ -41,10 +38,6 @@ func findLowestLetter(s []rune, char rune) (rune, int) {
 
 package main
 import "fmt"
-
-s1 := "parker"
-s2 := "morris"
-baseStr := "parser"
 
 func main() {
     s1 := "parker"
