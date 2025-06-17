@@ -1,0 +1,34 @@
+cics abendaid jcl+utilitaire
+albert
+reseaux
+
+Apprendre VIM et hyperland
+
+ia trade (3 semaines)
+golang (3 semaines) (formation + algo + packages + mettre en place revision gpt recurrente)
+
+ansible/terraform (1 semaines)
+docker swarn (1 semaines)
+kubernetes (1 semaines)
+service mesh (1 semaines)
+caching redis (1 semaines)
+ci cd argo (1 semaines)
+cloud aws (1 semaines)
+monitoring PG ELK (1 semaines)
+Hashicorp Vault (1 semaines)
+
+Cest quoi une VM et KVM (1 semaines)
+lfs (1 semaines)
+little pinguin (1 semaines)
+
+automatiser la production de code (2 semaines)
+mock gpt (1 semaines)
+
+Clean github (2 semaines)
+
+https://bytebytego.com/
+https://www.getcracked.io/
+
+
+kernel
+compilateur
